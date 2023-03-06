@@ -5,6 +5,7 @@
 - Es ist kein Wissen über die Spieleprogrammierung vorhanden.
 - Eine Plattform ist verfügbar, um das Programmieren von Spielen mit der Programmiersprache C# und Unity zu lernen.
 - Grundlegendes Wissen über C# ist vorhanden, aber über Unity nicht. 
+- keine Kenntnis, um Grafiken, die als Gameelemente verwendet werden, zu machen
 
   
   
@@ -18,6 +19,7 @@
 - Die Spieleapp sollte auf dem Betriebssystem Android funktionieren.
 - Das Spiel sollte mehrere Levels beinhalten.
 - Man kann sich auf der App anmelden.
+- Erstellung von Grafiken für die Gameelemente
 
 
 # Projekt Description

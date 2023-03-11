@@ -25,11 +25,15 @@ Es ist keine Pflicht, dass man sich auf der App anmeldet. Wenn jemand sich nicht
 
 
 # Projektumsetzung
-Eine Spieleapp kann mit Unity erstellt werden.
-Um zu lernen, mit Unity umzugehen und C#-Programm in Verbindung mit Unity zu schreiben, kann man Lernvideos anschauen. Diese Videos sind auf der Website „udemy“ zu finden. 
-Es fehlt die Kenntnis, um Punkte auf Datenbanken zu speichern und mit der Spieleapp zu kombinieren. Dies kann man umsetzen, indem man sich Informationen aus dem Internet holt. 
+- Eine Spieleapp kann mit Unity erstellt werden.
+- Um zu lernen, mit Unity umzugehen und C#-Programm in Verbindung mit Unity zu schreiben, kann man Lernvideos anschauen. 
+- Diese Videos sind auf der Website „udemy“ zu finden. 
+- Es fehlt die Kenntnis, um Punkte auf Datenbanken zu speichern und mit der Spieleapp zu kombinieren. 
+- Dies kann man umsetzen, indem man sich Informationen aus dem Internet holt. 
 Damit das Spiel auf dem Handy mit dem Betriebssystem Android funktioniert, muss man auf Unity das Spielprogramm erzeugen und auf das Handy raufladen.
-Man sollte in dem Spiel mehrere Levels einbauen. 
-Es ist noch keine Kenntnis vorhanden, wie man was programmiert, dass man sich auf eine Spieleapp anmelden kann.
+
+- Man sollte in dem Spiel mehrere Levels einbauen.
+
+- Es ist noch keine Kenntnis vorhanden, wie man was programmiert, dass man sich auf eine Spieleapp anmelden kann.
 
 

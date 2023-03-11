@@ -2,10 +2,11 @@
 
 # Ausgangssituation
 - 2 Projektmitglieder: Spalt Alexander, Hossaini Ali
-- Es ist kein Wissen über die Spieleprogrammierung vorhanden.
+- Es ist kein Wissen über die Spieleprogrammierung und über Unity vorhanden.
 - Eine Plattform ist verfügbar, um das Programmieren von Spielen mit der Programmiersprache C# und Unity zu lernen.
 - Grundlegendes Wissen über C# ist vorhanden, aber über Unity nicht. 
-- keine Kenntnis, um Grafiken, die als Gameelemente verwendet werden, zu machen
+- unwissend, wie man eine Anmeldung auf der App miteinbinden kann
+- keine Kenntnis, wie man Grafiken, die als Gameelemente verwendet werden, macht
 
   
   
@@ -44,10 +45,10 @@ Es ist keine Pflicht, dass man sich auf der App anmeldet. Wenn jemand sich nicht
 | Termin     | Phase            | Ziel                                                   |
 |------------|------------------|--------------------------------------------------------|
 | 06.02.2023 | Projektstart     | grundlegendes Wissen für Unity aneignen                |
-| 20.02.2023 | erste Ergebnisse | das Abfeuern der Geschosse programmieren               |
-| 27.02.2023 | erstes Level     | das erste Level soll spielbar sein                     |
-| 13.03.2023 | Datenbank        | eine Datenbank hinzufügen, die den Highscore speichert |
-| 03.04.2023 | weiter Level     | andere Bauwerke einfügen und andere Geschosse          |
+| 15.03.2023 | erste Ergebnisse | mithilfe der Lehrvideos eine grundlegende Basis für das Spiel schaffen|
+| 27.03.2023 | erstes Spiellevel| das erste Level soll spielbar sein                     |
+| 15.04.2023 | Datenbank        | eine Datenbank hinzufügen, die den Highscore speichert |
+| 30.04.2023 | Spiel ausbauen    | weitere Level einfügen                                |
 | 15.05.2023 | Abschluss        | finale Testungen der App                               |
 
   

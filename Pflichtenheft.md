@@ -10,9 +10,10 @@
 - Erstellung von Grafiken für die Gameelemente
 
 
-# Projektbeschreibung
-Eine App soll auf dem Betriebssystem Android soll entwickelt werden.
-Diese App soll ein Spiel sein und es beinhaltet Bauwerke, die durch Geschosse zerstört werden sollen.
+# Projekt Description
+
+Eine Spieleapp soll auf dem Betriebssystem Android entwickelt werden.
+Sie beinhaltet Bauwerke, die durch Geschosse zerstört werden sollen.
 Die Bauwerke sind mit vielen Bausteinen aufgebaut und je mehr Bausteine herunterfallen, desto mehr Punkte erhält man.
 Wenn von dem Bauwerk nichts mehr steht und Geschosse übrigbleiben, erhält man zusätzliche Punkte.
 Es gibt verschiedene Materialen von den Bausteinen, die andere physikalische Eigenschaften haben.

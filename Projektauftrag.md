@@ -1,4 +1,4 @@
-# Projektname: Android Spielapp: Building Destruction
+# Projektname: Android Spieleapp: Building Destruction
 
 # Ausgangssituation
 - 2 Projektmitglieder: Spalt Alexander, Hossaini Ali

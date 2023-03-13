@@ -38,6 +38,6 @@ Es ist keine Pflicht, dass man sich auf der App anmeldet. Wenn jemand sich nicht
   Um sich Zeit zu sparen, kopiert man das erste Level und fügt andere Gameelemente, die auch eine andere Physik haben werden, ein. 
 - Wenige Grafiken, die als Gameelemente verwendet werden, sind vorhanden. Um zu wissen, wie man solch designen kann, müsste man sich Informationen aus dem Internet holen. 
 
-- Es ist noch keine Kenntnis vorhanden, wie man was programmiert, dass man sich auf eine Spieleapp anmelden kann. Eine Lösung wäre, dass man sich im Internet darüber erkundigt.
+- Man sollte sich auf der App anmelden können, aber es fehlt das Wissen, wie man dies miteinbinden könnte. Eine Lösung wäre, sich im Internet zu erkundigen.
 
 

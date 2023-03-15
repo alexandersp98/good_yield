@@ -1,43 +1,45 @@
 # Projektziele
+
+
 - Spieleapp programmieren
+- Die Spieleapp sollte auf dem Betriebssystem Android funktionieren.
 - lernen, mit Unity umzugehen
 - lernen, C# Programme in Verbindung mit Unity zu schreiben
-- Datenbank für Scores erstellen
-- Highscores werden öffentlich angezeigt, 
-- Die Spieleapp sollte auf dem Betriebssystem Android funktionieren.
+- Datenbank für Scores erstellen 
 - Das Spiel sollte mehrere Levels beinhalten.
-- Man kann sich auf der App anmelden.
 - Erstellung von Grafiken für die Gameelemente
 
+<br>
 
 # Projekt Description
 
-Eine Spieleapp soll auf dem Betriebssystem Android entwickelt werden.
-Sie beinhaltet Bauwerke, die durch Geschosse zerstört werden sollen.
-Die Bauwerke sind mit vielen Bausteinen aufgebaut und je mehr Bausteine herunterfallen, desto mehr Punkte erhält man.
-Wenn von dem Bauwerk nichts mehr steht und Geschosse übrigbleiben, erhält man zusätzliche Punkte.
-Es gibt verschiedene Materialen von den Bausteinen, die andere physikalische Eigenschaften haben.
+Ein zweidimensionales Spiel soll entwickelt werden und soll auf dem Betriebssystem Android funktionieren.
+In diesem Spiel hat man das Ziel, dass man möglichst viele wertvolle Materialien wie Gold oder Diamant aus einem Bauwerk holt.
+Dies wird erreicht, wenn man auf das Gebäude schießt, damit die wertvollen Materialien herausfallen.
+Hinter dem Gebäude befindet sich ein Behälter, die die wertvollen Materialien auffangen.
+Je nachdem was oder wieviel man auffängt, erhält man dementsprechend Punkte.
+Die Bauwerke bestehen aus verschiedenen Baustoffen, die andere physikalische Eigenschaften haben.
 Das Spiel enthält auch verschiedene Level, die leichter oder schwieriger zu bewältigen sind. 
-Es wird mit dem ersten Level begonnen. Das nächste Level kann man freischalten, indem man eine Mindestpunktzahl erreicht.
-Man kann sich auf der App anmelden und auf einer Datenbank wird der Highscore gespeichert.
-Es ist keine Pflicht, dass man sich auf der App anmeldet. Wenn jemand sich nicht anmeldet, wird der Highscore nicht veröffentlicht. Die höchsten Punktestände pro Level sind trotzdem für jeden eigenen Spieler sichtbar.
+Es wird mit dem ersten Level begonnen, und das nächste Level kann man freischalten, indem man eine Mindestpunktzahl erreicht.
+Die Punkte werden auf einer Datenbank gespeichert und die besten fünf erreichten Ergebnisse sind sichtbar.## Projekt Description
 
 
+<br>
 
 
 
 
 # Projektumsetzung
-- Um zu lernen, mit Unity umzugehen und C#-Programm in Verbindung mit Unity zu schreiben, kann man Lernvideos anschauen. 
+- Um zu lernen, mit Unity umzugehen und C#-Programm in Verbindung mit Unity zu schreiben, sind Lehrvideos im Internet gefunden worden. 
  Diese Videos sind auf der Website „udemy“ zu finden. 
 - Es fehlt die Kenntnis, um Punkte auf Datenbanken zu speichern und mit der Spieleapp zu kombinieren. 
  Dies kann man umsetzen, indem man sich Informationen aus dem Internet holt. 
-- Damit das Spiel auf dem Handy mit dem Betriebssystem Android funktioniert, muss man auf Unity das Spielprogramm erzeugen und auf das Handy raufladen.
+- Damit das Spiel auf dem Smartphone mit dem Betriebssystem Android funktioniert, muss in Unity das Spielprogramm auf Android erzeugt werden, und dann kann man
+es auf das Smartphone raufladen.
 
-- Das sollte vielfältiger sein, deswegen wäre es gut, wenn man mehrere Levels einbaut. 
-  Um sich Zeit zu sparen, kopiert man das erste Level und fügt andere Gameelemente, die auch eine andere Physik haben werden, ein. 
-- Wenige Grafiken, die als Gameelemente verwendet werden, sind vorhanden. Um zu wissen, wie man solch designen kann, müsste man sich Informationen aus dem Internet holen. 
+- Das Spiel sollte vielfältiger sein, deswegen wäre es gut, wenn man mehrere Levels einbaut. 
+  Um sich Zeit zu sparen, kopiert man das erste Level und fügt andere Gameelemente ein, die auch eine andere Physik haben werden.
+- Wenige Grafiken, die als Gameelemente verwendet werden, sind vorhanden. Um zu wissen, wie man solche designen kann, müsste man sich Informationen aus dem Internet holen. 
 
-- Man sollte sich auf der App anmelden können, aber es fehlt das Wissen, wie man dies miteinbinden könnte. Eine Lösung wäre, sich im Internet zu erkundigen.
 
 

@@ -29,7 +29,7 @@
 Ein zweidimensionales Spiel soll entwickelt werden und soll auf dem Betriebssystem Android funktionieren.
 In diesem Spiel hat man das Ziel, dass man möglichst viele wertvolle Materialien wie Gold oder Diamant aus einem Bauwerk holt.
 Dies wird erreicht, wenn man auf das Gebäude schießt, damit die wertvollen Materialien herausfallen.
-Hinter dem Gebäude befindet sich ein Behälter, die die wertvollen Materialien auffangen.
+Hinter dem Gebäude befindet sich ein Behälter, der die wertvollen Materialien auffängt.
 Je nachdem was oder wieviel man auffängt, erhält man dementsprechend Punkte.
 Die Bauwerke bestehen aus verschiedenen Baustoffen, die andere physikalische Eigenschaften haben.
 Das Spiel enthält auch verschiedene Level, die leichter oder schwieriger zu bewältigen sind. 
